@@ -1,0 +1,30 @@
+C:\Users\Berkay\Desktop\NDPOdev2\NDPOdev2\bin\Debug\NDPOdev2.exe.config
+C:\Users\Berkay\Desktop\NDPOdev2\NDPOdev2\bin\Debug\NDPOdev2.exe
+C:\Users\Berkay\Desktop\NDPOdev2\NDPOdev2\bin\Debug\NDPOdev2.pdb
+C:\Users\Berkay\Desktop\NDPOdev2\NDPOdev2\obj\Debug\NDPOdev2.csprojAssemblyReference.cache
+C:\Users\Berkay\Desktop\NDPOdev2\NDPOdev2\obj\Debug\NDPOdev2.Form1.resources
+C:\Users\Berkay\Desktop\NDPOdev2\NDPOdev2\obj\Debug\NDPOdev2.Properties.Resources.resources
+C:\Users\Berkay\Desktop\NDPOdev2\NDPOdev2\obj\Debug\NDPOdev2.csproj.GenerateResource.cache
+C:\Users\Berkay\Desktop\NDPOdev2\NDPOdev2\obj\Debug\NDPOdev2.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\Desktop\NDPOdev2\NDPOdev2\obj\Debug\NDPOdev2.exe
+C:\Users\Berkay\Desktop\NDPOdev2\NDPOdev2\obj\Debug\NDPOdev2.pdb
+D:\Ders\Sakarya Üniversitesi\1. Sene\Bahar Dönemi\Nesneye Dayalı Programlama\Ödevler\Ödev2\NDPOdev2\NDPOdev2\bin\Debug\NDPOdev2.exe.config
+D:\Ders\Sakarya Üniversitesi\1. Sene\Bahar Dönemi\Nesneye Dayalı Programlama\Ödevler\Ödev2\NDPOdev2\NDPOdev2\bin\Debug\NDPOdev2.exe
+D:\Ders\Sakarya Üniversitesi\1. Sene\Bahar Dönemi\Nesneye Dayalı Programlama\Ödevler\Ödev2\NDPOdev2\NDPOdev2\bin\Debug\NDPOdev2.pdb
+D:\Ders\Sakarya Üniversitesi\1. Sene\Bahar Dönemi\Nesneye Dayalı Programlama\Ödevler\Ödev2\NDPOdev2\NDPOdev2\obj\Debug\NDPOdev2.csprojAssemblyReference.cache
+D:\Ders\Sakarya Üniversitesi\1. Sene\Bahar Dönemi\Nesneye Dayalı Programlama\Ödevler\Ödev2\NDPOdev2\NDPOdev2\obj\Debug\NDPOdev2.Form1.resources
+D:\Ders\Sakarya Üniversitesi\1. Sene\Bahar Dönemi\Nesneye Dayalı Programlama\Ödevler\Ödev2\NDPOdev2\NDPOdev2\obj\Debug\NDPOdev2.Properties.Resources.resources
+D:\Ders\Sakarya Üniversitesi\1. Sene\Bahar Dönemi\Nesneye Dayalı Programlama\Ödevler\Ödev2\NDPOdev2\NDPOdev2\obj\Debug\NDPOdev2.csproj.GenerateResource.cache
+D:\Ders\Sakarya Üniversitesi\1. Sene\Bahar Dönemi\Nesneye Dayalı Programlama\Ödevler\Ödev2\NDPOdev2\NDPOdev2\obj\Debug\NDPOdev2.csproj.CoreCompileInputs.cache
+D:\Ders\Sakarya Üniversitesi\1. Sene\Bahar Dönemi\Nesneye Dayalı Programlama\Ödevler\Ödev2\NDPOdev2\NDPOdev2\obj\Debug\NDPOdev2.exe
+D:\Ders\Sakarya Üniversitesi\1. Sene\Bahar Dönemi\Nesneye Dayalı Programlama\Ödevler\Ödev2\NDPOdev2\NDPOdev2\obj\Debug\NDPOdev2.pdb
+D:\Ders\Sakarya Üniversitesi\1. Sene\Bahar Dönemi\Nesneye Dayalı Programlama\Ödevler\Ödev2\GitHub\NDPOdev2\NDPOdev2\bin\Debug\NDPOdev2.exe.config
+D:\Ders\Sakarya Üniversitesi\1. Sene\Bahar Dönemi\Nesneye Dayalı Programlama\Ödevler\Ödev2\GitHub\NDPOdev2\NDPOdev2\bin\Debug\NDPOdev2.exe
+D:\Ders\Sakarya Üniversitesi\1. Sene\Bahar Dönemi\Nesneye Dayalı Programlama\Ödevler\Ödev2\GitHub\NDPOdev2\NDPOdev2\bin\Debug\NDPOdev2.pdb
+D:\Ders\Sakarya Üniversitesi\1. Sene\Bahar Dönemi\Nesneye Dayalı Programlama\Ödevler\Ödev2\GitHub\NDPOdev2\NDPOdev2\obj\Debug\NDPOdev2.csprojAssemblyReference.cache
+D:\Ders\Sakarya Üniversitesi\1. Sene\Bahar Dönemi\Nesneye Dayalı Programlama\Ödevler\Ödev2\GitHub\NDPOdev2\NDPOdev2\obj\Debug\NDPOdev2.Form1.resources
+D:\Ders\Sakarya Üniversitesi\1. Sene\Bahar Dönemi\Nesneye Dayalı Programlama\Ödevler\Ödev2\GitHub\NDPOdev2\NDPOdev2\obj\Debug\NDPOdev2.Properties.Resources.resources
+D:\Ders\Sakarya Üniversitesi\1. Sene\Bahar Dönemi\Nesneye Dayalı Programlama\Ödevler\Ödev2\GitHub\NDPOdev2\NDPOdev2\obj\Debug\NDPOdev2.csproj.GenerateResource.cache
+D:\Ders\Sakarya Üniversitesi\1. Sene\Bahar Dönemi\Nesneye Dayalı Programlama\Ödevler\Ödev2\GitHub\NDPOdev2\NDPOdev2\obj\Debug\NDPOdev2.csproj.CoreCompileInputs.cache
+D:\Ders\Sakarya Üniversitesi\1. Sene\Bahar Dönemi\Nesneye Dayalı Programlama\Ödevler\Ödev2\GitHub\NDPOdev2\NDPOdev2\obj\Debug\NDPOdev2.exe
+D:\Ders\Sakarya Üniversitesi\1. Sene\Bahar Dönemi\Nesneye Dayalı Programlama\Ödevler\Ödev2\GitHub\NDPOdev2\NDPOdev2\obj\Debug\NDPOdev2.pdb
