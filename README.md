@@ -1,4 +1,4 @@
-# 2019
+# 2020
 # Friendly Numbers - Object Oriented Programming Project
 
   At assignment, to make the application that finds find out if the 2 numbers entered are friendly numbers.
